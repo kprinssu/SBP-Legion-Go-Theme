@@ -22,6 +22,24 @@ img[src="/steaminputglyphs/ps_button_x.svg"] {
     transform: scale(0.88);
 }
 
+
+img[src="/steaminputglyphs/shared_color_button_x.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/X.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/shared_color_button_y.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/Y.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/shared_color_button_b.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/B.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/shared_color_button_a.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/A.png");
+    transform: scale(0.88);
+}
+
 /* Shoulder Buttons */
 img[src="/steaminputglyphs/ps5_r1.svg"] {
     content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/RB.png");
@@ -44,6 +62,31 @@ img[src="/steaminputglyphs/ps5_r2_soft.svg"] {
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/ps5_l2_soft.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/LT-soft.png");
+    transform: scale(0.88);
+}
+
+img[src="/steaminputglyphs/xbox_rb.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/RB.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/xbox_lb.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/LB.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/xbox_rt.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/RT.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/xbox_lt.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/LT.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/xbox_rt_soft.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/RT-soft.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/xbox_lt_soft.svg"] {
     content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/LT-soft.png");
     transform: scale(0.88);
 }
@@ -144,6 +187,15 @@ img[src="/steaminputglyphs/ps5_button_options.svg"] {
 }
 img[src="/steaminputglyphs/sd_l2.svg"] {
     content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/LT.png");
+    transform: scale(0.88);
+}
+
+img[src="/steaminputglyphs/xbox360_button_select.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/View.png");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/xbox360_button_start.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/Menu.png");
     transform: scale(0.88);
 }
 

@@ -10,3 +10,19 @@ img[src="/steaminputglyphs/ps4_button_logo.svg"] {
     content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/Menu.png");
     transform: scale(0.88);
 }
+
+/* Xbox */
+img[src="/steaminputglyphs/xbox_button_select.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/L.png");
+    transform: scale(0.88);
+}
+
+img[src="/steaminputglyphs/xbox_button_start.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/R.png");
+    transform: scale(0.88);
+}
+
+img[src="/steaminputglyphs/xbox_button_logo.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/Menu.png");
+    transform: scale(0.88);
+}
