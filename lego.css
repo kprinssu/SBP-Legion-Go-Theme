@@ -211,3 +211,8 @@ img[src="/steaminputglyphs/ps_button_mute.svg"] {
     content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/M2.png");
     transform: scale(0.88);
 }
+
+img[src="/steaminputglyphs/xbox_button_logo.svg"] {
+    content: url("/themes_custom/SBP-Legion-Go-Theme/lego-buttons/L.png");
+    transform: scale(0.88);
+}
